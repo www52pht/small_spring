@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62a86e22-c34f-466a-917f-33deec25d67d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/www52pht/small_spring" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:\idea\IntelliJ IDEA 2020.2.4\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="F:\idea\IntelliJ IDEA 2020.2.4\plugins\maven\lib\maven3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="29q4Wnyi2sFffImASfOJJnlhPpS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.ssh/id_rsa" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.34065935" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion.SSH" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.bugstack.springframework.beans.factory.support" />
+      <recent name="test" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.bugstack.springframework.beans.factory" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaCode\代码\手撸spring\small-spring-step-03\src\main\java" />
+      <recent name="E:\JavaCode\代码\手撸spring\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ApiTest.test_BeanFactory (2)">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.test_BeanFactory (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="small-spring-step-02" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApiTest" />
+      <option name="METHOD_NAME" value="test_BeanFactory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.test_BeanFactory (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="small-spring-step-03" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApiTest" />
+      <option name="METHOD_NAME" value="test_BeanFactory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.test_BeanFactory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="手撸spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.ApiTest" />
+      <option name="METHOD_NAME" value="test_BeanFactory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApiTest.test_BeanFactory (2)" />
+        <item itemvalue="JUnit.ApiTest.test_BeanFactory (1)" />
+        <item itemvalue="JUnit.ApiTest.test_BeanFactory" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration useDefault="false">C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <option name="sshConnectionType" value="PRIVATE_KEY" />
+    <option name="sshPrivateKeyPath" value="C:\Users\Administrator.BF-202106210029\.ssh\id_rsa" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62a86e22-c34f-466a-917f-33deec25d67d" name="Default Changelist" comment="" />
+      <created>1653827317200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653827317200</updated>
+      <workItem from="1653827318257" duration="170000" />
+      <workItem from="1653827496322" duration="1182000" />
+      <workItem from="1653829366629" duration="9209000" />
+      <workItem from="1653908604308" duration="304000" />
+      <workItem from="1654006236113" duration="4306000" />
+      <workItem from="1654932969453" duration="1622000" />
+      <workItem from="1654934635066" duration="1600000" />
+    </task>
+    <task id="LOCAL-00001" summary="提交：初始化">
+      <created>1654933778651</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654933778651</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交：补充代码">
+      <created>1654933930933</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654933930933</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交：初始化" />
+    <MESSAGE value="提交：补充代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交：补充代码" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="0" key="#Project_Structure" timestamp="1653827591767">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="312" y="0" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1653827591767" />
+    <state x="21" y="299" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1653827798600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="21" y="299" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1653827798600" />
+    <state x="238" y="165" key="#com.intellij.ide.util.MemberChooser" timestamp="1654009598376">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="238" y="165" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1654009598376" />
+    <state x="0" y="425" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1653832205568">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="425" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1653832205568" />
+    <state x="107" y="374" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1653827853663">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="107" y="374" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1653827853663" />
+    <state x="624" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1653828144365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="624" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1653828144365" />
+    <state x="655" y="149" key="#xdebugger.evaluate" timestamp="1653838825614">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="149" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1653838825614" />
+    <state width="543" height="582" key="DebuggerActiveHint" timestamp="1653829783278">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="543" height="582" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1653829783278" />
+    <state x="670" y="137" key="FileChooserDialogImpl" timestamp="1654934570357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="670" y="137" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1654934570357" />
+    <state x="791" y="391" key="Github.ShareDialog" timestamp="1654936088943">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="791" y="391" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1654936088943" />
+    <state x="583" y="147" key="Github.UntrackedFilesDialog" timestamp="1654936095099">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="583" y="147" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1654936095099" />
+    <state width="1867" height="326" key="GridCell.Tab.0.bottom" timestamp="1654009764593">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="326" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1654009764593" />
+    <state width="1867" height="326" key="GridCell.Tab.0.center" timestamp="1654009764593">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="326" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1654009764593" />
+    <state width="1867" height="326" key="GridCell.Tab.0.left" timestamp="1654009764593">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="326" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1654009764593" />
+    <state width="1867" height="326" key="GridCell.Tab.0.right" timestamp="1654009764593">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="326" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1654009764593" />
+    <state width="1867" height="326" key="GridCell.Tab.1.bottom" timestamp="1653839324503">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="326" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1653839324503" />
+    <state width="1867" height="326" key="GridCell.Tab.1.center" timestamp="1653839324503">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="326" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1653839324503" />
+    <state width="1867" height="326" key="GridCell.Tab.1.left" timestamp="1653839324503">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="326" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1653839324503" />
+    <state width="1867" height="326" key="GridCell.Tab.1.right" timestamp="1653839324503">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="326" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1653839324503" />
+    <state x="0" y="90" key="Maven.ArtifactSearchDialog" timestamp="1654007679504">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="90" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1654007679504" />
+    <state x="312" y="0" key="SettingsEditor" timestamp="1654934572280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="312" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1654934572280" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1654936243710">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1654936243710" />
+    <state x="518" y="357" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1654936062229">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="518" y="357" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1654936062229" />
+    <state x="158" y="100" key="new project wizard" timestamp="1654933428830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="158" y="100" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1654933428830" />
+    <state x="52" y="239" key="run.anything.popup" timestamp="1654933728407">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="52" y="239" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1654933728407" />
+    <state x="59" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1654008912910">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="59" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1654008912910" />
+    <state x="749" y="259" key="svn.repositoryBrowser" timestamp="1654935397790">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="749" y="259" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1654935397790" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/test/ApiTest.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/small-spring-step-02/src/main/java/cn/bugstack/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/small-spring-step-02/src/main/java/cn/bugstack/springframework/beans/factory/support/DefaultListableBeanFactory.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
