@@ -5,6 +5,10 @@ package cn.bugstack.springframework.beans.factory.config;
  * @version 1.0
  * @create 2022/5/29 21:53
  */
+
+/**
+ * Bean定义类
+ */
 public class BeanDefinition {
     private Class beanClass;
 

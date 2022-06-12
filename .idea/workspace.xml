@@ -13,7 +13,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62a86e22-c34f-466a-917f-33deec25d67d" name="Default Changelist" comment="" />
+    <list default="true" id="62a86e22-c34f-466a-917f-33deec25d67d" name="Default Changelist" comment="提交：补充代码">
+      <change beforePath="$PROJECT_DIR$/small-spring-step-02/src/main/java/cn/bugstack/springframework/beans/factory/config/BeanDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/small-spring-step-02/src/main/java/cn/bugstack/springframework/beans/factory/config/BeanDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/small-spring-step-02/src/main/java/cn/bugstack/springframework/beans/factory/config/SingletonBeanRegistry.java" beforeDir="false" afterPath="$PROJECT_DIR$/small-spring-step-02/src/main/java/cn/bugstack/springframework/beans/factory/config/SingletonBeanRegistry.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,21 +51,24 @@
     </option>
   </component>
   <component name="ProjectId" id="29q4Wnyi2sFffImASfOJJnlhPpS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/.ssh/id_rsa" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.34065935" />
-    <property name="settings.editor.selected.configurable" value="vcs.Subversion.SSH" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -81,17 +87,6 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.ApiTest.test_BeanFactory (2)">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ApiTest.test_BeanFactory (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="small-spring-step-02" />
       <option name="PACKAGE_NAME" value="" />
@@ -130,9 +125,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ApiTest.test_BeanFactory" />
         <item itemvalue="JUnit.ApiTest.test_BeanFactory (2)" />
         <item itemvalue="JUnit.ApiTest.test_BeanFactory (1)" />
-        <item itemvalue="JUnit.ApiTest.test_BeanFactory" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +150,9 @@
       <workItem from="1653908604308" duration="304000" />
       <workItem from="1654006236113" duration="4306000" />
       <workItem from="1654932969453" duration="1622000" />
-      <workItem from="1654934635066" duration="1600000" />
+      <workItem from="1654934635066" duration="3896000" />
+      <workItem from="1655035810433" duration="207000" />
+      <workItem from="1655036031674" duration="126000" />
     </task>
     <task id="LOCAL-00001" summary="提交：初始化">
       <created>1654933778651</created>
@@ -187,8 +184,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/small_spring" />
+      <path value="$PROJECT_DIR$/small_spring_www" />
+    </ignored-roots>
     <MESSAGE value="提交：初始化" />
     <MESSAGE value="提交：补充代码" />
     <option name="LAST_COMMIT_MESSAGE" value="提交：补充代码" />
@@ -274,14 +277,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="90" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1654007679504" />
-    <state x="312" y="0" key="SettingsEditor" timestamp="1654934572280">
+    <state x="342" y="0" key="SettingsEditor" timestamp="1655036046438">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="312" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1654934572280" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1654936243710">
+    <state x="342" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1655036046438" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1654936388367">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1654936243710" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1654936388367" />
+    <state x="706" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1655035624278">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="706" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1655035624278" />
     <state x="518" y="357" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1654936062229">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
